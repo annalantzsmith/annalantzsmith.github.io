@@ -6,26 +6,26 @@ redirect_from:
   - "/nmp/"
   - "/nmp.html"
 ---
-Made includes thing smaller
+Made includes thing smaller; and swapped in new images
 
 You can also find links to published articles on [my Google Scholar profile](https://scholar.google.com/citations?user=8Ber9F0AAAAJ&hl=en&oi=sra).
 
 Working papers
 ----
-Silva-Jones, J. R., **Smith, A. L.**, Marshburn, C., Crosswell, A., Mendes, W. B. and Whitehurst, L. N. “Contextualizing cognition: Socio-environmental factors shape how momentary stress predicts memory.” *Under review*.
+![Stress and memory](/images/Jillian.png){: .align-left width="150px" } Silva-Jones, J. R., **Smith, A. L.**, Marshburn, C., Crosswell, A., Mendes, W. B. and Whitehurst, L. N. “Contextualizing cognition: Socio-environmental factors shape how momentary stress predicts memory.” *Under review*.
 
-![Model checking for ARD](/images/ARD.png){: .align-left width="400px" } Ward, Owen, Smith, A. L., Zheng, T. “Bayesian modeling for aggregated relational data:  a unified perspective”. [Arxiv](http://arxiv.org/abs/2506.21353). *Under review*. 
+![Model checking for ARD](/images/ARD_small.png){: .align-left width="150px" } Ward, Owen, Smith, A. L., Zheng, T. “Bayesian modeling for aggregated relational data:  a unified perspective”. [Arxiv](http://arxiv.org/abs/2506.21353). *Under review*. 
 {:style="clear: left"}
 
 
 {:style="clear: left"}
 
-{% include imageleft.html image_path="/images/ARD.png" title="Some title text" description="Some more text that will appear to the left of the image." %}{: width="100px"}
+{% include imageleft.html image_path="/images/ARD_small.png" title="Some title text" description="Some more text that will appear to the left of the image." %}{: width="100px"}
 
 
 Publications 
 -----
-![Opioid Shipments](/images/ARCOS.png){: .align-left width="650px" } Delcher, C., **Smith, A. L.**, Romanelli, F., Gaskill, L., and Surratt, H. (2024) “Oxymorphone and Oxycodone Pharmacy Purchases in U.S. Counties: Prelude to the Largest Rural Human Immunodeficiency Virus Outbreak in U.S. History”. *Pharmacoepidemiology and Drug Safety*, 3:12, e70066. 
+![Opioid Shipments](/images/ARCOS_nolegend.png){: .align-left width="500px" } Delcher, C., **Smith, A. L.**, Romanelli, F., Gaskill, L., and Surratt, H. (2024) “Oxymorphone and Oxycodone Pharmacy Purchases in U.S. Counties: Prelude to the Largest Rural Human Immunodeficiency Virus Outbreak in U.S. History”. *Pharmacoepidemiology and Drug Safety*, 3:12, e70066. 
 {:style="clear: left"}
 
 Harris, D. R., Quesinberry, D., Anthony, N., Bae, J., **Smith, A. L.**, Delcher, C. (2024) “Housing Instability Increases for Stimulant-involved Overdose Deaths After Linking Surveillance Data to Electronic Health Records in Kentucky.” *Drug and Alcohol Dependence*, 264:112455. 
