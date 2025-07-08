@@ -6,8 +6,6 @@ redirect_from:
   - "/nmp/"
   - "/nmp.html"
 ---
-Trying right-alignment
-
 You can also find links to published articles on [my Google Scholar profile](https://scholar.google.com/citations?user=8Ber9F0AAAAJ&hl=en&oi=sra).
 
 Working papers
@@ -19,7 +17,7 @@ Working papers
  <br /> 
 
 
-![Model checking for ARD](/images/ARD_small.png){: .align-right width="100px" } Ward, Owen, **Smith, A. L.**, Zheng, T. “Bayesian modeling for aggregated relational data:  a unified perspective”. [Arxiv](http://arxiv.org/abs/2506.21353). *Under review*. 
+![Model checking for ARD](/images/ARD_small.png){: .align-right width="150px" } Ward, Owen, **Smith, A. L.**, Zheng, T. “Bayesian modeling for aggregated relational data:  a unified perspective”. [Arxiv](http://arxiv.org/abs/2506.21353). *Under review*. 
 {:style="clear: left"}
 
 
@@ -42,15 +40,9 @@ Publications
 Harris, D. R., Quesinberry, D., Anthony, N., Bae, J., **Smith, A. L.**, Delcher, C. (2024) “Housing Instability Increases for Stimulant-involved Overdose Deaths After Linking Surveillance Data to Electronic Health Records in Kentucky.” *Drug and Alcohol Dependence*, 264:112455. 
 {:style="clear: left"}
 
-
- <br /> 
-
  
 Gilmore, G. R., **Smith, A. L.**, Dickinson, F. B., Crosswell, A. D., Mendes, W. B., & Whitehurst, L. N. (2024) “Sleep/wake regularity influences how stress shapes executive function.” *Frontiers in Sleep* 3, 1359723. 
 {:style="clear: left"}
-
-
- <br /> 
 
  
 ![Where trust can breakdown](/images/Taxonomy.png){: .align-right width="350px" }  Broderick, T., Gelman A., Meager, R., **Smith, A.**, and Zheng, T. (2023), “Toward a Taxonomy of Trust for Probabilistic Machine Learning.”  *Science Advances* 9:7. 
@@ -79,16 +71,12 @@ Gilmore, G. R., **Smith, A. L.**, Dickinson, F. B., Crosswell, A. D., Mendes, W.
 
  <br /> 
  <br /> 
- <br /> 
- <br /> 
 
  
 ![Point process diagnostics](/images/Jing.png){: .align-right width="300px" } Wu, J., **Smith, A. L.**, and Zheng, T. (2021), “Diagnostics and Visualization of Point Process Models for Event Times on a Social Network,” Applied Modeling Techniques and Data Analysis 1, edited by Dimotilakis, Y., Karagrigoriou, A., Parpoula, Ch. and Skiadas, Ch.  iSTE, Wiley, 7, 129-145.  
 {:style="clear: left"}
 
 
- <br /> 
- <br /> 
  <br /> 
  <br /> 
 
@@ -98,7 +86,6 @@ Gilmore, G. R., **Smith, A. L.**, Dickinson, F. B., Crosswell, A. D., Mendes, W.
 
 
  <br /> 
-  <br /> 
  <br /> 
  <br /> 
 
@@ -108,21 +95,17 @@ Gilmore, G. R., **Smith, A. L.**, Dickinson, F. B., Crosswell, A. D., Mendes, W.
 {:style="clear: left"}
 
 
- <br /> 
+<br /> 
+<br /> 
+<br /> 
 
 
 Browning, C. R., Calder, C. A., Krivo, L. J., **Smith, A. L.**, and Boettner, B. (2017), “Socioeconomic segregation of activity spaces in urban neighborhoods:  Does shared residence mean shared routines?” *RSF:  The Russel Sage Foundation Journal of the Social Sciences*, 3:2, 210-231. 
 {:style="clear: left"}
 
 
- <br /> 
-
-
 Browning, C. R., Calder, C. A., Ford, J. L., Boettner, B., **Smith, A. L.** and Haynie, D. (2017), “Understanding racial differences in exposure to violent areas:  Integrating survey, smartphone, and administrative data resources,” *The Annals of the American Academy of Political and Social Science*, 669, 41-62. 
 {:style="clear: left"}
-
-
- <br /> 
 
  
 ![Network size matters](/images/SocialNetworks.png){: .align-right width="350px" }**Smith, A.**, Calder, C. A., and Browning, C. R. (2016), “Empirical reference distributions for networks of different size,” *Social Networks*, 47, 24-37. 
