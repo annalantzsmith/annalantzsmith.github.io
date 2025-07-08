@@ -6,6 +6,7 @@ redirect_from:
   - "/nmp/"
   - "/nmp.html"
 ---
+You can also find links to published articles on [my Google Scholar profile](https://scholar.google.com/citations?user=8Ber9F0AAAAJ&hl=en&oi=sra).
 
 Working papers
 ----
