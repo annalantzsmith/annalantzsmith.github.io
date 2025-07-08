@@ -11,7 +11,7 @@ Working papers
 ----
 Silva-Jones, J. R., **Smith, A. L.**, Marshburn, C., Crosswell, A., Mendes, W. B. and Whitehurst, L. N. “Contextualizing cognition: Socio-environmental factors shape how momentary stress predicts memory.” *Under review*.
 
-Ward, Owen, Smith, A. L., Zheng, T. “Bayesian modeling for aggregated relational data:  a unified perspective”. [Arxiv](http://arxiv.org/abs/2506.21353) *Under review*.
+Ward, Owen, Smith, A. L., Zheng, T. “Bayesian modeling for aggregated relational data:  a unified perspective”. [Arxiv](http://arxiv.org/abs/2506.21353). *Under review*.
 
 ![Model checking for ARD](/images/ARD.png){: .align-center width="300px" }
 
@@ -27,7 +27,7 @@ Gilmore, G. R., **Smith, A. L.**, Dickinson, F. B., Crosswell, A. D., Mendes, W.
 
 Broderick, T., Gelman A., Meager, R., **Smith, A.**, and Zheng, T. (2023), “Toward a Taxonomy of Trust for Probabilistic Machine Learning.”  *Science Advances* 9:7. 
 
-![Opioid Shipments](/images/ARCOS.png){: .align-center width="300px" } 
+![Where trust can breakdown](/images/Taxonomy.png){: .align-center width="300px" } 
 
 **Smith, A.**, Zheng, T., and Gelman, A. (2023), “Prediction scoring of data-driven discoveries for reproducible research,” *Statistics and Computing*, 33:1, 1-21.
 
@@ -47,7 +47,7 @@ Wu, J., **Smith, A. L.**, and Zheng, T. (2021), “Diagnostics and Visualization
 
 Browning, C. R., Calder, C. A., Boettner, B., and **Smith, A.** (2017), “Ecological networks and urban crime:  The structure of shared routine activity locations and neighborhood-level informal control capacity,” *Criminology*, 55, 754-778.
 
-![Co-location networks](/images/Browning.png){: .align-left width="225px" }
+![Co-location networks](/images/Browning.png){: .align-left width="250px" }
 
 Browning, C. R., Calder, C. A., Krivo, L. J., **Smith, A. L.**, and Boettner, B. (2017), “Socioeconomic segregation of activity spaces in urban neighborhoods:  Does shared residence mean shared routines?” *RSF:  The Russel Sage Foundation Journal of the Social Sciences*, 3:2, 210-231.
 	
