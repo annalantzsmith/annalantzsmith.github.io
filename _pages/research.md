@@ -6,14 +6,16 @@ redirect_from:
   - "/nmp/"
   - "/nmp.html"
 ---
-Trying centered images again 
+Added a blank line?
 
 You can also find links to published articles on [my Google Scholar profile](https://scholar.google.com/citations?user=8Ber9F0AAAAJ&hl=en&oi=sra).
 
 Working papers
 ----
 * Silva-Jones, J. R., **Smith, A. L.**, Marshburn, C., Crosswell, A., Mendes, W. B. and Whitehurst, L. N. “Contextualizing cognition: Socio-environmental factors shape how momentary stress predicts memory.” *Under review*.
-![Stress and memory](/images/Jillian.png){: .align-center width="200px" } 
+![Stress and memory](/images/Jillian.png){: .align-center width="200px" }
+
+ <br /> 
 
 * Ward, Owen, **Smith, A. L.**, Zheng, T. “Bayesian modeling for aggregated relational data:  a unified perspective”. [Arxiv](http://arxiv.org/abs/2506.21353). *Under review*. 
 ![Model checking for ARD](/images/ARD_small.png){: .align-left width="100px" }
