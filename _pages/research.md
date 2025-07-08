@@ -15,7 +15,7 @@ Working papers
 * Silva-Jones, J. R., **Smith, A. L.**, Marshburn, C., Crosswell, A., Mendes, W. B. and Whitehurst, L. N. “Contextualizing cognition: Socio-environmental factors shape how momentary stress predicts memory.” *Under review*.
 ![Stress and memory](/images/Jillian.png){: .align-center width="200px" } 
 
-* Ward, Owen, Smith, A. L., Zheng, T. “Bayesian modeling for aggregated relational data:  a unified perspective”. [Arxiv](http://arxiv.org/abs/2506.21353). *Under review*. 
+* Ward, Owen, **Smith, A. L.**, Zheng, T. “Bayesian modeling for aggregated relational data:  a unified perspective”. [Arxiv](http://arxiv.org/abs/2506.21353). *Under review*. 
 ![Model checking for ARD](/images/ARD_small.png){: .align-left width="100px" }
 
 
