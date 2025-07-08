@@ -6,7 +6,7 @@ redirect_from:
   - "/nmp/"
   - "/nmp.html"
 ---
-Style on its own line (2:34).
+Made includes thing smaller
 
 You can also find links to published articles on [my Google Scholar profile](https://scholar.google.com/citations?user=8Ber9F0AAAAJ&hl=en&oi=sra).
 
@@ -20,7 +20,7 @@ Silva-Jones, J. R., **Smith, A. L.**, Marshburn, C., Crosswell, A., Mendes, W. B
 
 {:style="clear: left"}
 
-{% include imageleft.html image_path="/images/ARD.png" title="Some title text" description="Some more text that will appear to the left of the image." %}
+{% include imageleft.html image_path="/images/ARD.png" title="Some title text" description="Some more text that will appear to the left of the image." %}{: width="100px"}
 
 
 Publications 
