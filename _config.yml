@@ -25,11 +25,11 @@ author:
   avatar           : "AnnaSmith_profile.jpg"
   name             : "Anna L. Smith" # sidebar name
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor, Dept. of Statistics"
+  bio              : "Assistant Professor,\\Dept. of Statistics"
   location         : "Lexington, KY"
   employer         : "University of Kentucky"
-  uri              : # URL
-  email            : "none@example.org" 
+  uri              : "https://stat.as.uky.edu/users/asm297" # URL
+  email            : #"none@example.org" 
 
   # Academic websites
   academia         : # URL
