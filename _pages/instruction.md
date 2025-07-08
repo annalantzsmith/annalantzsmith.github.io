@@ -1,6 +1,6 @@
 ---
 permalink: /instruction/
-title: ""
+title: "Teaching"
 author_profile: true
 redirect_from: 
   - "/nmp/"
