@@ -9,6 +9,7 @@ redirect_from:
 
 I am an Assistant Professor in the [Dr. Bing Zhang Department of Statistics](https://stat.as.uky.edu/) at the [University of Kentucky](https://www.uky.edu/). Before joining the faculty at UK, I was a postdoc with [Tian Zheng](https://sites.stat.columbia.edu/tzheng/) in the Dept. of Statistics at [Columbia University in the City of New York](https://www.columbia.edu/) and I receieved my PhD in Statistics at [The Ohio State University](https://www.osu.edu/), where I was advised by [Kate Calder](https://cacalder.com/). I grew up in Cleveland Heights, Ohio and did my undergrad at [Marquette University](https://www.marquette.edu/) in Milwaukee, WI in Computational Math.
 
+![Subset of a simulated network from a hyperbolic latent space](/images/Hyperbola3.png){: .align-right width="300px" } 
 I am interested in the **geometry of network data**, (posterior) **predictive model checking**, and collaborating with experts outside of statistics to study **complex social and behavioral phenomena**.  Recent work also includes Bayesian hierarchical modeling, latent variable approaches, and applications in behavioral health and substanse use research. My research strengthens our intuition for dealing with complex data and models, and I enjoy creating impactful visualizations.
 
 
