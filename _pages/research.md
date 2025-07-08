@@ -6,20 +6,20 @@ redirect_from:
   - "/nmp/"
   - "/nmp.html"
 ---
-Added more blank lines
+Trying right-alignment
 
 You can also find links to published articles on [my Google Scholar profile](https://scholar.google.com/citations?user=8Ber9F0AAAAJ&hl=en&oi=sra).
 
 Working papers
 ----
-![Stress and memory](/images/Jillian.png){: .align-left width="200px" } Silva-Jones, J. R., **Smith, A. L.**, Marshburn, C., Crosswell, A., Mendes, W. B. and Whitehurst, L. N. “Contextualizing cognition: Socio-environmental factors shape how momentary stress predicts memory.” *Under review*.
+![Stress and memory](/images/Jillian.png){: .align-right width="200px" } Silva-Jones, J. R., **Smith, A. L.**, Marshburn, C., Crosswell, A., Mendes, W. B. and Whitehurst, L. N. “Contextualizing cognition: Socio-environmental factors shape how momentary stress predicts memory.” *Under review*.
 {:style="clear: left"}
 
 
  <br /> 
 
 
-![Model checking for ARD](/images/ARD_small.png){: .align-left width="100px" } Ward, Owen, **Smith, A. L.**, Zheng, T. “Bayesian modeling for aggregated relational data:  a unified perspective”. [Arxiv](http://arxiv.org/abs/2506.21353). *Under review*. 
+![Model checking for ARD](/images/ARD_small.png){: .align-right width="100px" } Ward, Owen, **Smith, A. L.**, Zheng, T. “Bayesian modeling for aggregated relational data:  a unified perspective”. [Arxiv](http://arxiv.org/abs/2506.21353). *Under review*. 
 {:style="clear: left"}
 
 
@@ -32,7 +32,7 @@ Working papers
 
 Publications 
 -----
-![Opioid Shipments](/images/ARCOS_nolegend.png){: .align-left width="500px" } Delcher, C., **Smith, A. L.**, Romanelli, F., Gaskill, L., and Surratt, H. (2024) “Oxymorphone and Oxycodone Pharmacy Purchases in U.S. Counties: Prelude to the Largest Rural Human Immunodeficiency Virus Outbreak in U.S. History”. *Pharmacoepidemiology and Drug Safety*, 3:12, e70066. 
+![Opioid Shipments](/images/ARCOS_nolegend.png){: .align-right width="400px" } Delcher, C., **Smith, A. L.**, Romanelli, F., Gaskill, L., and Surratt, H. (2024) “Oxymorphone and Oxycodone Pharmacy Purchases in U.S. Counties: Prelude to the Largest Rural Human Immunodeficiency Virus Outbreak in U.S. History”. *Pharmacoepidemiology and Drug Safety*, 3:12, e70066. 
 {:style="clear: left"}
 
 
@@ -53,42 +53,58 @@ Gilmore, G. R., **Smith, A. L.**, Dickinson, F. B., Crosswell, A. D., Mendes, W.
  <br /> 
 
  
-![Where trust can breakdown](/images/Taxonomy.png){: .align-left width="350px" }  Broderick, T., Gelman A., Meager, R., **Smith, A.**, and Zheng, T. (2023), “Toward a Taxonomy of Trust for Probabilistic Machine Learning.”  *Science Advances* 9:7. 
+![Where trust can breakdown](/images/Taxonomy.png){: .align-right width="350px" }  Broderick, T., Gelman A., Meager, R., **Smith, A.**, and Zheng, T. (2023), “Toward a Taxonomy of Trust for Probabilistic Machine Learning.”  *Science Advances* 9:7. 
 {:style="clear: left"}
 
 
  <br /> 
+ <br /> 
+ <br /> 
+ <br /> 
 
  
-![Prediction scoring](/images/PredScoring.png){: .align-left width="400px" } **Smith, A.**, Zheng, T., and Gelman, A. (2023), “Prediction scoring of data-driven discoveries for reproducible research,” *Statistics and Computing*, 33:1, 1-21. 
+![Prediction scoring](/images/PredScoring.png){: .align-right width="400px" } **Smith, A.**, Zheng, T., and Gelman, A. (2023), “Prediction scoring of data-driven discoveries for reproducible research,” *Statistics and Computing*, 33:1, 1-21. 
 {:style="clear: left"}
 
 
  <br /> 
+ <br /> 
+ <br /> 
+ <br /> 
 
  
-![Latent social rankings](/images/OwenMMHP.png){: .align-left width="300px" } Ward, O., Wu, J., Zheng, T., **Smith, A. L.**, and Curley, J. (2022), “Network Hawkes process models for exploring latent hierarchy in social animal interactions,” *Journal of the Royal Statistical Society: Series C*, 71:5, 1402-1426. 
+![Latent social rankings](/images/OwenMMHP.png){: .align-right width="300px" } Ward, O., Wu, J., Zheng, T., **Smith, A. L.**, and Curley, J. (2022), “Network Hawkes process models for exploring latent hierarchy in social animal interactions,” *Journal of the Royal Statistical Society: Series C*, 71:5, 1402-1426. 
 {:style="clear: left"}
 
 
  <br /> 
+ <br /> 
+ <br /> 
+ <br /> 
 
  
-![Point process diagnostics](/images/Jing.png){: .align-left width="300px" } Wu, J., **Smith, A. L.**, and Zheng, T. (2021), “Diagnostics and Visualization of Point Process Models for Event Times on a Social Network,” Applied Modeling Techniques and Data Analysis 1, edited by Dimotilakis, Y., Karagrigoriou, A., Parpoula, Ch. and Skiadas, Ch.  iSTE, Wiley, 7, 129-145.  
+![Point process diagnostics](/images/Jing.png){: .align-right width="300px" } Wu, J., **Smith, A. L.**, and Zheng, T. (2021), “Diagnostics and Visualization of Point Process Models for Event Times on a Social Network,” Applied Modeling Techniques and Data Analysis 1, edited by Dimotilakis, Y., Karagrigoriou, A., Parpoula, Ch. and Skiadas, Ch.  iSTE, Wiley, 7, 129-145.  
 {:style="clear: left"}
 
 
  <br /> 
+ <br /> 
+ <br /> 
+ <br /> 
 
  
-![Hyperbolic latent space network](/images/Hyperbola3.png){: .align-left width="150px" } **Smith, A. L.**, Asta, D. M., and Calder, C. A. (2019), “The Geometry of Continuous Latent Space Models for Network Data,” *Statistical Science*, 34:3, 428-453. 
+![Hyperbolic latent space network](/images/Hyperbola3.png){: .align-right width="150px" } **Smith, A. L.**, Asta, D. M., and Calder, C. A. (2019), “The Geometry of Continuous Latent Space Models for Network Data,” *Statistical Science*, 34:3, 428-453. 
 {:style="clear: left"}
 
 
  <br /> 
+  <br /> 
+ <br /> 
+ <br /> 
+
 
  
-![Co-location networks](/images/Browning.png){: .align-left width="300px" } Browning, C. R., Calder, C. A., Boettner, B., and **Smith, A.** (2017), “Ecological networks and urban crime:  The structure of shared routine activity locations and neighborhood-level informal control capacity,” *Criminology*, 55, 754-778. 
+![Co-location networks](/images/Browning.png){: .align-right width="300px" } Browning, C. R., Calder, C. A., Boettner, B., and **Smith, A.** (2017), “Ecological networks and urban crime:  The structure of shared routine activity locations and neighborhood-level informal control capacity,” *Criminology*, 55, 754-778. 
 {:style="clear: left"}
 
 
@@ -109,5 +125,5 @@ Browning, C. R., Calder, C. A., Ford, J. L., Boettner, B., **Smith, A. L.** and 
  <br /> 
 
  
-![Network size matters](/images/SocialNetworks.png){: .align-left width="350px" }**Smith, A.**, Calder, C. A., and Browning, C. R. (2016), “Empirical reference distributions for networks of different size,” *Social Networks*, 47, 24-37. 
+![Network size matters](/images/SocialNetworks.png){: .align-right width="350px" }**Smith, A.**, Calder, C. A., and Browning, C. R. (2016), “Empirical reference distributions for networks of different size,” *Social Networks*, 47, 24-37. 
 {:style="clear: left"}
