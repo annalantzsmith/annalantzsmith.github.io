@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : ""
+title                    : "Anna L. Smith"
 title_separator          : "-"
 name                     : &name "Anna L. Smith"
 description              : &description "Asst. Prof., Statistics at UK"
@@ -25,7 +25,7 @@ author:
   avatar           : "AnnaSmith_profile.jpg"
   name             : "Anna L. Smith" # sidebar name
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor,\\Dept. of Statistics"
+  bio              : "Assistant Professor, Statistics"
   location         : "Lexington, KY"
   employer         : "University of Kentucky"
   uri              : "https://stat.as.uky.edu/users/asm297" # URL
