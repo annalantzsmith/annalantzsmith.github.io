@@ -17,6 +17,9 @@ Silva-Jones, J. R., **Smith, A. L.**, Marshburn, C., Crosswell, A., Mendes, W. B
 
 {:style="clear: left"}
 
+{% include imageleft.html image_path="/images/ARD.png" title="Some title text" description="Some more text that will appear to the left of the image." %}
+
+
 Publications 
 -----
 ![Opioid Shipments](/images/ARCOS.png){: .align-left width="650px" } Delcher, C., **Smith, A. L.**, Romanelli, F., Gaskill, L., and Surratt, H. (2024) “Oxymorphone and Oxycodone Pharmacy Purchases in U.S. Counties: Prelude to the Largest Rural Human Immunodeficiency Virus Outbreak in U.S. History”. *Pharmacoepidemiology and Drug Safety*, 3:12, e70066. {:style="clear: left"}
