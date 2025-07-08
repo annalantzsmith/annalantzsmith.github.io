@@ -6,13 +6,15 @@ redirect_from:
   - "/nmp/"
   - "/nmp.html"
 ---
-Made includes thing smaller; and swapped in new images
+Removed header from includes
 
 You can also find links to published articles on [my Google Scholar profile](https://scholar.google.com/citations?user=8Ber9F0AAAAJ&hl=en&oi=sra).
 
 Working papers
 ----
-![Stress and memory](/images/Jillian.png){: .align-left width="150px" } Silva-Jones, J. R., **Smith, A. L.**, Marshburn, C., Crosswell, A., Mendes, W. B. and Whitehurst, L. N. “Contextualizing cognition: Socio-environmental factors shape how momentary stress predicts memory.” *Under review*.
+![Stress and memory](/images/Jillian.png){: .align-left width="150px" } Silva-Jones, J. R., **Smith, A. L.**, Marshburn, C., Crosswell, A., Mendes, W. B. and Whitehurst, L. N. “Contextualizing cognition: Socio-environmental factors shape how momentary stress predicts memory.” *Under review*.{:style="clear: left"}
+
+{:style="clear: left"}
 
 ![Model checking for ARD](/images/ARD_small.png){: .align-left width="150px" } Ward, Owen, Smith, A. L., Zheng, T. “Bayesian modeling for aggregated relational data:  a unified perspective”. [Arxiv](http://arxiv.org/abs/2506.21353). *Under review*. 
 {:style="clear: left"}
@@ -20,8 +22,9 @@ Working papers
 
 {:style="clear: left"}
 
-{% include imageleft.html image_path="/images/ARD_small.png" title="Some title text" description="Some more text that will appear to the left of the image." %}{: width="100px"}
+{% include imageleft.html image_path="/images/ARD_small.png" description="Ward, Owen, Smith, A. L., Zheng, T. “Bayesian modeling for aggregated relational data:  a unified perspective”. [Arxiv](http://arxiv.org/abs/2506.21353). *Under review*." %}{: width="100px"}{:style="clear: left"}
 
+{:style="clear: left"}
 
 Publications 
 -----
