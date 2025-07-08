@@ -15,6 +15,8 @@ Silva-Jones, J. R., **Smith, A. L.**, Marshburn, C., Crosswell, A., Mendes, W. B
 Ward, Owen, Smith, A. L., Zheng, T. “Bayesian modeling for aggregated relational data:  a unified perspective”. [Arxiv](http://arxiv.org/abs/2506.21353). *Under review*.
 * ![Model checking for ARD](/images/ARD.png){: .align-left width="400px" }
 
+
+
 Publications
 -----
 Delcher, C., **Smith, A. L.**, Romanelli, F., Gaskill, L., and Surratt, H. (2024) “Oxymorphone and Oxycodone Pharmacy Purchases in U.S. Counties: Prelude to the Largest Rural Human Immunodeficiency Virus Outbreak in U.S. History”. *Pharmacoepidemiology and Drug Safety*, 3:12, e70066.
